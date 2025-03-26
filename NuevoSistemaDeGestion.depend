@@ -1,0 +1,1370 @@
+# depslib dependency file v1.0
+1733260044 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"menu.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"amblArtista.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1730314464 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Artista.h
+
+1733259299 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Artista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Artista.h"
+
+1732210145 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoArtista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Artista.h"
+	"ArchivoArtista.h"
+	<iostream>
+	<cstring>
+	<ctime>
+	"Artista.h"
+	"ArchivoArtista.h"
+
+1730919206 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoArtista.h
+	"Artista.h"
+	"Artista.h"
+
+1731092207 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/menu.h
+
+1732210126 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"menu.h"
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"menu.h"
+
+1728697332 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733262692 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/amblArtista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"amblArtista.h"
+
+1731517044 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/amblArtista.h
+
+1733274607 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/DesarrolloMenues.h
+
+1732210134 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/DesarrolloMenues.cpp
+	<iostream>
+	<ctime>
+	"DesarrolloMenues.h"
+	"menu.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+	<iostream>
+	<ctime>
+	"DesarrolloMenues.h"
+	"menu.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733259588 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Disco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1730481403 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Disco.h
+
+1731522425 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoDisco.h
+	"Disco.h"
+	"Disco.h"
+
+1732753739 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoDisco.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+	<iostream>
+	<cstring>
+	<ctime>
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1731522623 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/abmlDisco.h
+
+1732753788 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/abmlDisco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1731522761 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Cliente.h
+
+1733238572 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Cliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoVenta.h"
+
+1730482215 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoCliente.h
+	"Cliente.h"
+	"Cliente.h"
+
+1732210197 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoCliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+	<iostream>
+	<cstring>
+	<ctime>
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1731523581 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/abmlCliente.h
+
+1733162346 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/abmlCliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733263848 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Venta.h
+
+1733150317 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/Venta.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoCliente.h"
+	"ArchivoDisco.h"
+	"ArchivoVenta.h"
+	<iostream>
+	<cstring>
+	<ctime>
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoCliente.h"
+	"ArchivoDisco.h"
+	"ArchivoVenta.h"
+
+1733232359 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoVenta.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1731523992 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/ArchivoVenta.h
+	"Venta.h"
+	"Venta.h"
+
+1731524161 /home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/abmlVenta.h
+
+1733234793 source:/home/gabriel/Documents/TECNICATURA UNIVERSITARIA PROGRAMACION UTN/SEGUNDO CUATRIMESTRE/PROGRAMACION II/NuevoSistemaDeGestion/abmlVenta.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733785384 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\abmlcliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733616611 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\desarrollomenues.h
+
+1733613374 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\artista.h
+
+1733612921 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\disco.h
+
+1733582825 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\cliente.h
+
+1733582799 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\venta.h
+
+1733583128 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivoartista.h
+	"Artista.h"
+
+1733582886 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivodisco.h
+	"Disco.h"
+
+1733582902 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivocliente.h
+	"Cliente.h"
+
+1733582872 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivoventa.h
+	"Venta.h"
+
+1733343769 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\amblartista.h
+
+1733343769 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\abmldisco.h
+
+1733343769 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\abmlcliente.h
+
+1733343769 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\abmlventa.h
+
+1733780897 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\abmldisco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733781386 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\abmlventa.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733782882 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\amblartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"amblArtista.h"
+
+1733614654 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivoartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Artista.h"
+	"ArchivoArtista.h"
+
+1733521193 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivocliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733614862 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivodisco.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733587639 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\archivoventa.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733776633 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\artista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+
+1733762235 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\cliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoVenta.h"
+
+1733769200 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\desarrollomenues.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"menu.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733343769 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\menu.h
+
+1733762488 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\disco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733620538 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"menu.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"amblArtista.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733782101 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"menu.h"
+
+1733343769 c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733770029 source:c:\users\usuario\downloads\nuevosistemadegestionv3\nuevosistemadegestion\venta.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoCliente.h"
+	"ArchivoDisco.h"
+	"ArchivoVenta.h"
+
+1733785384 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\abmlcliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733616611 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\desarrollomenues.h
+
+1733613374 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\artista.h
+
+1733612921 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\disco.h
+
+1733582825 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\cliente.h
+
+1733582799 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\venta.h
+
+1733583128 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivoartista.h
+	"Artista.h"
+
+1733582886 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivodisco.h
+	"Disco.h"
+
+1733582902 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivocliente.h
+	"Cliente.h"
+
+1733582872 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivoventa.h
+	"Venta.h"
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\amblartista.h
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\abmldisco.h
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\abmlcliente.h
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\abmlventa.h
+
+1733781386 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\abmlventa.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733782882 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\amblartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"amblArtista.h"
+
+1733614654 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivoartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Artista.h"
+	"ArchivoArtista.h"
+
+1733521193 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivocliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733614862 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivodisco.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733587639 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\archivoventa.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733776633 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\artista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+
+1733762235 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\cliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoVenta.h"
+
+1733769200 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\desarrollomenues.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"menu.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\menu.h
+
+1733762488 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\disco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733620538 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"menu.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"amblArtista.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733782101 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"menu.h"
+
+1733770029 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\nuevosistemadegestionv3\nuevosistemadegestion\venta.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoCliente.h"
+	"ArchivoDisco.h"
+	"ArchivoVenta.h"
+
+1733802955 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\abmlcliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733616611 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\desarrollomenues.h
+
+1733613374 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\artista.h
+
+1733612921 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\disco.h
+
+1733582825 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\cliente.h
+
+1733867036 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\venta.h
+	"rlutil.h"
+
+1733583128 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivoartista.h
+	"Artista.h"
+
+1733582886 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivodisco.h
+	"Disco.h"
+
+1733582902 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivocliente.h
+	"Cliente.h"
+
+1733582872 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivoventa.h
+	"Venta.h"
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\amblartista.h
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\abmldisco.h
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\abmlcliente.h
+
+1733794563 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\abmlventa.h
+
+1733807507 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\abmldisco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733810749 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\abmlventa.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733812774 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\amblartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"amblArtista.h"
+
+1733812775 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivoartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"ArchivoArtista.h"
+
+1733857035 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivocliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733836868 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivodisco.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733857996 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\archivoventa.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733891521 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\artista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+
+1733891397 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\cliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoVenta.h"
+
+1733864366 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\desarrollomenues.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"menu.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733343769 c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\menu.h
+
+1733891321 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\disco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733889977 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"menu.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"amblArtista.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733862607 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"menu.h"
+
+1733891808 source:c:\users\usuario\onedrive - frgp.utn.edu.ar\desktop\disqueria\nuevosistemadegestion\venta.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoCliente.h"
+	"ArchivoDisco.h"
+	"ArchivoVenta.h"
+
+1733802954 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\abmlcliente.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733343768 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733616610 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\desarrollomenues.h
+
+1733613374 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\artista.h
+
+1733612920 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\disco.h
+
+1733582824 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\cliente.h
+
+1733867036 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\venta.h
+	"rlutil.h"
+
+1733583128 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivoartista.h
+	"Artista.h"
+
+1733582886 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivodisco.h
+	"Disco.h"
+
+1733582902 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivocliente.h
+	"Cliente.h"
+
+1733582872 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivoventa.h
+	"Venta.h"
+
+1733343768 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\amblartista.h
+
+1733343768 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\abmldisco.h
+
+1733343768 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\abmlcliente.h
+
+1733794562 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\abmlventa.h
+
+1733807506 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\abmldisco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733921157 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\abmlventa.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733812774 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\amblartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"amblArtista.h"
+
+1733812774 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivoartista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"ArchivoArtista.h"
+
+1733857034 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivocliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733836868 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivodisco.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733857996 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\archivoventa.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733891520 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\artista.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+
+1733891396 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\cliente.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoVenta.h"
+
+1733864366 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\desarrollomenues.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"DesarrolloMenues.h"
+	"menu.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733343768 d:\documents\programacion en c++\disqueria\nuevosistemadegestion\menu.h
+
+1733920883 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\disco.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"amblArtista.h"
+	"abmlDisco.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733915700 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"menu.h"
+	"DesarrolloMenues.h"
+	"Artista.h"
+	"Disco.h"
+	"Cliente.h"
+	"Venta.h"
+	"ArchivoArtista.h"
+	"ArchivoDisco.h"
+	"ArchivoCliente.h"
+	"ArchivoVenta.h"
+	"abmlDisco.h"
+	"amblArtista.h"
+	"abmlCliente.h"
+	"abmlVenta.h"
+
+1733862606 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\menu.cpp
+	<iostream>
+	"rlutil.h"
+	<ctime>
+	"menu.h"
+
+1733891808 source:d:\documents\programacion en c++\disqueria\nuevosistemadegestion\venta.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"Cliente.h"
+	"Disco.h"
+	"Venta.h"
+	"ArchivoCliente.h"
+	"ArchivoDisco.h"
+	"ArchivoVenta.h"
+

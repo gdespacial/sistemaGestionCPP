@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="amblArtista.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4192" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="42" />
+			<Collapse line="79" />
+			<Collapse line="106" />
+		</Folding>
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="233" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Venta.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2381" topLine="96" />
+		</Cursor>
+		<Folding>
+			<Collapse line="64" />
+			<Collapse line="68" />
+			<Collapse line="75" />
+			<Collapse line="82" />
+		</Folding>
+	</File>
+	<File name="Cliente.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1070" topLine="26" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="447" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="abmlCliente.h" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="254" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoArtista.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1096" topLine="4" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="21" />
+			<Collapse line="34" />
+			<Collapse line="49" />
+			<Collapse line="65" />
+			<Collapse line="99" />
+			<Collapse line="123" />
+			<Collapse line="142" />
+			<Collapse line="157" />
+		</Folding>
+	</File>
+	<File name="DesarrolloMenues.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5535" topLine="56" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="22" />
+			<Collapse line="63" />
+			<Collapse line="204" />
+			<Collapse line="274" />
+			<Collapse line="348" />
+			<Collapse line="376" />
+			<Collapse line="404" />
+			<Collapse line="433" />
+			<Collapse line="461" />
+			<Collapse line="489" />
+			<Collapse line="517" />
+		</Folding>
+	</File>
+	<File name="ArchivoDisco.h" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="94" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="abmlDisco.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="247" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoCliente.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6465" topLine="17" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="28" />
+			<Collapse line="46" />
+			<Collapse line="62" />
+			<Collapse line="80" />
+			<Collapse line="113" />
+			<Collapse line="132" />
+			<Collapse line="147" />
+			<Collapse line="178" />
+			<Collapse line="202" />
+		</Folding>
+	</File>
+	<File name="Disco.cpp" open="1" top="1" tabpos="10" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1498" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="ArchivoVenta.h" open="0" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1351" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="abmlVenta.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="437" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3698" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="14" />
+			<Collapse line="32" />
+			<Collapse line="49" />
+			<Collapse line="67" />
+			<Collapse line="84" />
+			<Collapse line="101" />
+			<Collapse line="113" />
+			<Collapse line="125" />
+			<Collapse line="137" />
+			<Collapse line="149" />
+			<Collapse line="162" />
+			<Collapse line="175" />
+		</Folding>
+	</File>
+	<File name="Venta.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5377" topLine="78" />
+		</Cursor>
+	</File>
+	<File name="Artista.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1057" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="amblArtista.h" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="97" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="abmlCliente.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="Cliente.h" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="266" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoDisco.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6647" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="18" />
+			<Collapse line="32" />
+			<Collapse line="50" />
+			<Collapse line="66" />
+			<Collapse line="84" />
+			<Collapse line="118" />
+			<Collapse line="137" />
+			<Collapse line="152" />
+			<Collapse line="187" />
+		</Folding>
+	</File>
+	<File name="abmlDisco.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3188" topLine="7" />
+		</Cursor>
+		<Folding>
+			<Collapse line="20" />
+			<Collapse line="64" />
+			<Collapse line="84" />
+			<Collapse line="91" />
+		</Folding>
+	</File>
+	<File name="ArchivoArtista.h" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1158" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="DesarrolloMenues.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="272" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArchivoVenta.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6266" topLine="88" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="33" />
+			<Collapse line="51" />
+			<Collapse line="68" />
+			<Collapse line="86" />
+			<Collapse line="119" />
+			<Collapse line="138" />
+			<Collapse line="153" />
+			<Collapse line="177" />
+			<Collapse line="191" />
+			<Collapse line="231" />
+			<Collapse line="245" />
+			<Collapse line="259" />
+			<Collapse line="279" />
+			<Collapse line="313" />
+			<Collapse line="327" />
+			<Collapse line="381" />
+		</Folding>
+	</File>
+	<File name="abmlVenta.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2023" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="ArchivoCliente.h" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="86" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Disco.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="679" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="Artista.cpp" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1313" topLine="12" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
